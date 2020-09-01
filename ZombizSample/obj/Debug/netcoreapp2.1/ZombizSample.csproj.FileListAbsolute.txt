@@ -1,0 +1,14 @@
+F:\Learnings\Project_Bhanu\ZombizSample\ZombizSample\bin\Debug\netcoreapp2.1\ZombizSample.deps.json
+F:\Learnings\Project_Bhanu\ZombizSample\ZombizSample\bin\Debug\netcoreapp2.1\ZombizSample.runtimeconfig.json
+F:\Learnings\Project_Bhanu\ZombizSample\ZombizSample\bin\Debug\netcoreapp2.1\ZombizSample.runtimeconfig.dev.json
+F:\Learnings\Project_Bhanu\ZombizSample\ZombizSample\bin\Debug\netcoreapp2.1\ZombizSample.dll
+F:\Learnings\Project_Bhanu\ZombizSample\ZombizSample\bin\Debug\netcoreapp2.1\ZombizSample.pdb
+F:\Learnings\Project_Bhanu\ZombizSample\ZombizSample\obj\Debug\netcoreapp2.1\ZombizSample.csprojAssemblyReference.cache
+F:\Learnings\Project_Bhanu\ZombizSample\ZombizSample\obj\Debug\netcoreapp2.1\ZombizSample.csproj.CoreCompileInputs.cache
+F:\Learnings\Project_Bhanu\ZombizSample\ZombizSample\obj\Debug\netcoreapp2.1\ZombizSample.RazorAssemblyInfo.cache
+F:\Learnings\Project_Bhanu\ZombizSample\ZombizSample\obj\Debug\netcoreapp2.1\ZombizSample.RazorAssemblyInfo.cs
+F:\Learnings\Project_Bhanu\ZombizSample\ZombizSample\obj\Debug\netcoreapp2.1\ZombizSample.AssemblyInfoInputs.cache
+F:\Learnings\Project_Bhanu\ZombizSample\ZombizSample\obj\Debug\netcoreapp2.1\ZombizSample.AssemblyInfo.cs
+F:\Learnings\Project_Bhanu\ZombizSample\ZombizSample\obj\Debug\netcoreapp2.1\ZombizSample.RazorTargetAssemblyInfo.cache
+F:\Learnings\Project_Bhanu\ZombizSample\ZombizSample\obj\Debug\netcoreapp2.1\ZombizSample.dll
+F:\Learnings\Project_Bhanu\ZombizSample\ZombizSample\obj\Debug\netcoreapp2.1\ZombizSample.pdb
